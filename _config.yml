@@ -1,27 +1,36 @@
 # Site
 name: "Video"
 title: "BSafes Video"
-description: "Protecing your data while boosting your productivity"
+description: "Introducing BSafes Collaborative Note-Taking with 256-Bit End-to-End Encryption"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 bsafesURL: 'https://www.bsafes.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
+company: "Wu-Nan Technology Inc."
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  EJServiceKiosk:
+    name: EJServiceKiosk 
+    display_name: EJServiceKiosk
+    avatar: https://statics.bsafes.com/images/megaphone-2374502_640.png 
+    email: support@bsafes.com
+    web: https://www.fiverr.com/ejservicekiosk?source=order_page_summary_seller_link
+    twitter: 
+    description: "I'm an Internet Culture expert"
+  fahadkhan1990:
+    name: fahadkhan1990 
+    display_name: fahadkhan1990 
+    avatar: https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/92250c016d4dde599ba633399fa89c35-1524519092694/d24b9fb4-00d3-4758-96d4-15ed0f17c81a.jpg 
+    email: support@bsafes.com
+    web: https://www.fiverr.com/fahadkhan1990?source=order_page_summary_seller_link 
+    twitter:
+    description: "Hey, I am Fahad and I have done M.Phil in Computer Science. I am a tech geek and creative writer."
   john:
     name: John
     display_name: John    
