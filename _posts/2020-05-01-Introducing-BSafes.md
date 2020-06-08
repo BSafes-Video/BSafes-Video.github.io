@@ -115,6 +115,6 @@ In the end, no matter how complex and rapid the sharing of data becomes, the sim
 
 We are currently in a Beta development stage. Consider supporting us as we implement more changes to user interface implementation and accessibility. The technology and infrastructure are all in place. We strive to give businesses and individuals the level of protection that governments around the world are still actively trying to push for with laws. Safety should be at your hands, and shared with the hands you choose to share with.
 
-Image by <a href="https://pixabay.com/users/madartzgraphics-3575871/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1944688">Darwin Laganzon</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1944688">Pixabay</a>
+Image by <a href="https://pixabay.com/users/izoca-1502280/">izoca</a> from <a href="https://pixabay.com/images/id-980732/">Pixabay</a>
 
 Video presentation by <a href="https://www.fiverr.com/ericarebeltv?source=order_page_summary_seller_link">ericarebeltv</a>
