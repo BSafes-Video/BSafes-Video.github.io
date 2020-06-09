@@ -10,6 +10,7 @@ featured: false
 hidden: false 
 comments: false
 ---
+<sup>Image by <a href="https://pixabay.com/users/congerdesign-509903/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2158737">congerdesign</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2158737">Pixabay</a></sup>
 
 Welcome to the video tutorial series of BSafes. This video tutorial will demonstrate about how to use a page on BSafes.
 
@@ -97,4 +98,4 @@ Hopefully this video would help you to use a Page on BSafes. If you want to expl
 
 Thank you.
 
-Image by <a href="https://pixabay.com/users/congerdesign-509903/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2158737">congerdesign</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2158737">Pixabay</a>
+

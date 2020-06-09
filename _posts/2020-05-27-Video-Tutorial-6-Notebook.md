@@ -10,6 +10,7 @@ featured: false
 hidden: false 
 comments: false
 ---
+<sup>Image by <a href="https://pixabay.com/users/engin_akyurt-3656355/">Engin_Akyurt</a> from <a href="https://pixabay.com/photos/coffee-pen-notebook-caffeine-cup-2306471/">Pixabay</a></sup>
 
 Welcome to the video tutorial series of BSafes. This video tutorial demonstrate you how to use BSafes Notebook.
 
@@ -123,4 +124,4 @@ Hopefully this video would help you to use BSafes notebook efficiently. If you w
 
 Thank you.
 
-Image by <a href="https://pixabay.com/users/engin_akyurt-3656355/">Engin_Akyurt</a> from <a href="https://pixabay.com/photos/coffee-pen-notebook-caffeine-cup-2306471/">Pixabay</a>
+

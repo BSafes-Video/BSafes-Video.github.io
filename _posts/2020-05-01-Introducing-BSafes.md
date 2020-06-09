@@ -8,10 +8,12 @@ featured: true
 hidden: true
 comments: false
 ---
+<sup>Image by <a href="https://pixabay.com/users/izoca-1502280/">izoca</a> from <a href="https://pixabay.com/images/id-980732/">Pixabay</a></sup>
 
 The standards of security have changed over history, but they have always been that needed consideration. From the ancient times of codes and encryptions, offshoots of the popular languages to hide discreet information from prying eyes, to the more modern variant of safeguarding, the handcuff and the briefcase to ensure only the right person with the essential information will possess it and distribute it accordingly. The methods change but the need is always there; the need for highly secure information is a constant concern in the realm of business.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Cmnkh9HQLag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<sup>Video presentation by <a href="https://www.fiverr.com/ericarebeltv?source=order_page_summary_seller_link">ericarebeltv</a></sup>
 
 In this modern age of technology, we enjoy the most rapid and widespread form of information distribution. People across the world are capable of relaying data to one another across the Internet. It has revolutionized the way business and transactions are conducted. And it has led to revolutions in security for all of that data to pass hands as safely as possible. Even then, there are compromises. With so much digital space to traverse, the opportunities for essential information to be intercepted or stolen are not uncommon.
 
@@ -115,6 +117,5 @@ In the end, no matter how complex and rapid the sharing of data becomes, the sim
 
 We are currently in a Beta development stage. Consider supporting us as we implement more changes to user interface implementation and accessibility. The technology and infrastructure are all in place. We strive to give businesses and individuals the level of protection that governments around the world are still actively trying to push for with laws. Safety should be at your hands, and shared with the hands you choose to share with.
 
-Image by <a href="https://pixabay.com/users/izoca-1502280/">izoca</a> from <a href="https://pixabay.com/images/id-980732/">Pixabay</a>
 
-Video presentation by <a href="https://www.fiverr.com/ericarebeltv?source=order_page_summary_seller_link">ericarebeltv</a>
+

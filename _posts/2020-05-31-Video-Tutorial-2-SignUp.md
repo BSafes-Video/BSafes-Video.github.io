@@ -10,6 +10,7 @@ featured: false
 hidden: false 
 comments: false
 ---
+<sup>Image by <a href="https://pixabay.com/users/pezibear-526143/">Pezibear</a> from <a href="https://pixabay.com/photos/hyacinth-flower-fragrant-flower-787758/">Pixabay</a></sup>
 
 Welcome to the video tutorial series of BSafes. This video tutorial will demonstrate about how to sign up on BSafes. 
 
@@ -87,4 +88,4 @@ Hopefully this video would help you for signing up on BSafes. If you want to exp
 
 Thank you.
 
-Image by <a href="https://pixabay.com/users/pezibear-526143/">Pezibear</a> from <a href="https://pixabay.com/photos/hyacinth-flower-fragrant-flower-787758/">Pixabay</a>
+

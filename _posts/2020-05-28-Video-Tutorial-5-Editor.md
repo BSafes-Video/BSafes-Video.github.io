@@ -10,6 +10,7 @@ featured: false
 hidden: false 
 comments: false
 ---
+<sup>Image by <a href="https://pixabay.com/users/startupstockphotos-690514/">StartupStockPhotos</a> from <a href="https://pixabay.com/photos/student-typing-keyboard-text-849825/">Pixabay</a></sup>
 
 Welcome to the video tutorial series of BSafes. This video tutorial demonstrate you how to use BSafes text editor like a pro.
 
@@ -115,4 +116,4 @@ Hopefully this video would help you to use BSafes text editor like a pro. If you
 
 Thank you.
 
-Image by <a href="https://pixabay.com/users/startupstockphotos-690514/">StartupStockPhotos</a> from <a href="https://pixabay.com/photos/student-typing-keyboard-text-849825/">Pixabay</a>
+

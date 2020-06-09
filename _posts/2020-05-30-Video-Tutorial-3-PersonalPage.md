@@ -10,6 +10,7 @@ featured: false
 hidden: false 
 comments: false
 ---
+<sup>Image by <a href="https://pixabay.com/users/StartupStockPhotos-690514/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=593333">StartupStockPhotos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=593333">Pixabay</a></sup>
 
 Welcome to the video tutorial series of BSafes. This video tutorial will demonstrate about how to create a personal page on BSafes. 
 
@@ -37,4 +38,4 @@ Hopefully this video would help you to create your first personal page on BSafes
 
 Thank you.
 
-Image by <a href="https://pixabay.com/users/StartupStockPhotos-690514/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=593333">StartupStockPhotos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=593333">Pixabay</a>
+

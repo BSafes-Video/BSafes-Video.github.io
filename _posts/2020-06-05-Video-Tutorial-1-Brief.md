@@ -10,6 +10,7 @@ featured: true
 hidden: true
 comments: false
 ---
+<sup>Image by <a href="https://pixabay.com/users/izoca-1502280/">izoca</a> from <a href="https://pixabay.com/images/id-980732/">Pixabay</a></sup>
 
 Welcome to the video tutorial series of BSafes. This is the first video of this series that will give you brief Introduction to BSafes.
 
@@ -89,4 +90,4 @@ watch out our complete video tutorial series.
 
 Thank you.
 
-Image by <a href="https://pixabay.com/users/izoca-1502280/">izoca</a> from <a href="https://pixabay.com/images/id-980732/">Pixabay</a>
+
