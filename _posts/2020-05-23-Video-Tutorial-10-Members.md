@@ -10,9 +10,9 @@ featured: false
 hidden: false 
 comments: false
 ---
-<sup>Image by <a href="https://pixabay.com/users/free-photos-242387/">Free-Photos</a> from <a href="https://pixabay.com/photos/workplace-team-business-meeting-1245776/">Pixabay</a></sup>
-
 Welcome to the video tutorial series of BSafes. This video tutorial will introduce you to the BSafes dashboard and demonstrate you how to add members in your BSafes account and take backup of your data from BSafes.
+
+<sup>Image by <a href="https://pixabay.com/users/free-photos-242387/">Free-Photos</a> from <a href="https://pixabay.com/photos/workplace-team-business-meeting-1245776/">Pixabay</a></sup>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/MMVaMNTq1zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

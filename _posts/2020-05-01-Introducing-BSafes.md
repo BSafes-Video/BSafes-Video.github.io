@@ -8,10 +8,9 @@ featured: true
 hidden: true
 comments: false
 ---
-<sup>Image by <a href="https://pixabay.com/users/izoca-1502280/">izoca</a> from <a href="https://pixabay.com/images/id-980732/">Pixabay</a></sup>
-
 The standards of security have changed over history, but they have always been that needed consideration. From the ancient times of codes and encryptions, offshoots of the popular languages to hide discreet information from prying eyes, to the more modern variant of safeguarding, the handcuff and the briefcase to ensure only the right person with the essential information will possess it and distribute it accordingly. The methods change but the need is always there; the need for highly secure information is a constant concern in the realm of business.
 
+<sup>Image by <a href="https://pixabay.com/users/izoca-1502280/">izoca</a> from <a href="https://pixabay.com/images/id-980732/">Pixabay</a></sup>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Cmnkh9HQLag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <sup>Video presentation by <a href="https://www.fiverr.com/ericarebeltv?source=order_page_summary_seller_link">ericarebeltv</a></sup>
 

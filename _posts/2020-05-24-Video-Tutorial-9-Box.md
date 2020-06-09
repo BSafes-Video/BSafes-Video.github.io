@@ -10,9 +10,9 @@ featured: false
 hidden: false 
 comments: false
 ---
-<sup>Image by <a href="https://pixabay.com/users/pexels-2286921/">Pexels</a> from <a href="https://pixabay.com/photos/archive-boxes-documents-folders-1850170/">Pixabay</a></sup>
-
 Welcome to the video tutorial series of BSafes. This video tutorial will demonstrate you how to use BSafes box.
+
+<sup>Image by <a href="https://pixabay.com/users/pexels-2286921/">Pexels</a> from <a href="https://pixabay.com/photos/archive-boxes-documents-folders-1850170/">Pixabay</a></sup>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/8C8ihaBuh9o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

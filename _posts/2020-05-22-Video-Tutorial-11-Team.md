@@ -10,10 +10,9 @@ featured: false
 hidden: false 
 comments: false
 ---
-<sup>Image by <a href="https://pixabay.com/users/startupstockphotos-690514/">StartupStockPhotos</a> from <a href="https://pixabay.com/photos/startup-meeting-brainstorming-594090/">Pixabay</a></sup>
-
 Welcome to the video tutorial series of BSafes. This video tutorial will demonstrate how to add a team and work in BSafes Team Workspace.
 
+<sup>Image by <a href="https://pixabay.com/users/startupstockphotos-690514/">StartupStockPhotos</a> from <a href="https://pixabay.com/photos/startup-meeting-brainstorming-594090/">Pixabay</a></sup>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/IxfhKioDx48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Till now, we have worked inside the personal workspace. Now we will see what team workspace is and how it is used.

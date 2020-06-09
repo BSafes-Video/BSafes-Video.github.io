@@ -10,10 +10,10 @@ featured: false
 hidden: false 
 comments: false
 ---
-<sup>Image by <a href="https://pixabay.com/users/engin_akyurt-3656355/">Engin_Akyurt</a> from <a href="https://pixabay.com/photos/coffee-pen-notebook-caffeine-cup-2306471/">Pixabay</a></sup>
 
 Welcome to the video tutorial series of BSafes. This video tutorial demonstrate you how to use BSafes Notebook.
 
+<sup>Image by <a href="https://pixabay.com/users/engin_akyurt-3656355/">Engin_Akyurt</a> from <a href="https://pixabay.com/photos/coffee-pen-notebook-caffeine-cup-2306471/">Pixabay</a></sup>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/rYdF-oThFQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 BSafes notebook consists of multiple pages that are ordered by page numbers just like a notebook.

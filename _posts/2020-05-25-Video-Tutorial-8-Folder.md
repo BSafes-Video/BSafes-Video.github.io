@@ -10,10 +10,10 @@ featured: false
 hidden: false 
 comments: false
 ---
-<sup>Image by <a href="https://pixabay.com/users/nastya_gepp-3773230/">nastya_gepp</a> from <a href="https://pixabay.com/photos/girl-young-student-sitting-table-3718537/">Pixabay</a></sup>
 
 Welcome to the video tutorial series of BSafes. This video tutorial will demonstrate you how to use BSafes folders.
 
+<sup>Image by <a href="https://pixabay.com/users/nastya_gepp-3773230/">nastya_gepp</a> from <a href="https://pixabay.com/photos/girl-young-student-sitting-table-3718537/">Pixabay</a></sup>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/kcFS7qGdlWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 To create folder, first click on the blue plus button right under the activities.
