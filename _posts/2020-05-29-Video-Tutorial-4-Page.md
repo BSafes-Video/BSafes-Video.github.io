@@ -13,7 +13,7 @@ comments: false
 Welcome to the video tutorial series of BSafes. This video tutorial will demonstrate about how to use a page on BSafes.
 
 <sup>Image by <a href="https://pixabay.com/users/congerdesign-509903/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2158737">congerdesign</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2158737">Pixabay</a></sup>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/l0N_hZ_MJpI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XioGZdNSBh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you want to create a page on BSafes or if you don’t know how to create a page on BSafes, then watch our video tutorial about how to create a personal page on BSafes.
 

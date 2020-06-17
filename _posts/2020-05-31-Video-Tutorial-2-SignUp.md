@@ -13,7 +13,7 @@ comments: false
 Welcome to the video tutorial series of BSafes. This video tutorial will demonstrate about how to sign up on BSafes. 
 
 <sup>Image by <a href="https://pixabay.com/users/pezibear-526143/">Pezibear</a> from <a href="https://pixabay.com/photos/hyacinth-flower-fragrant-flower-787758/">Pixabay</a></sup>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/s6ptqpjFd9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9HHrTlcUSEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 First, access the BSafes website from web browser on your device by typing the its web address, i.e. bsafes.com
 

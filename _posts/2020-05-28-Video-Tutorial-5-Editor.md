@@ -14,7 +14,7 @@ comments: false
 Welcome to the video tutorial series of BSafes. This video tutorial demonstrate you how to use BSafes text editor like a pro.
 
 <sup>Image by <a href="https://pixabay.com/users/startupstockphotos-690514/">StartupStockPhotos</a> from <a href="https://pixabay.com/photos/student-typing-keyboard-text-849825/">Pixabay</a></sup>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Toxk-uSLyWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zEashF0ersU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The BSafes text editor offers several features that are mostly required to create online text-based documents.
 

@@ -14,7 +14,7 @@ Welcome to the video tutorial series of BSafes. This video tutorial will introdu
 
 <sup>Image by <a href="https://pixabay.com/users/free-photos-242387/">Free-Photos</a> from <a href="https://pixabay.com/photos/workplace-team-business-meeting-1245776/">Pixabay</a></sup>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/MMVaMNTq1zs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HdmqSmnEx7c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 BSafes dashboard shows you the details about your account on BSafes. To access the dashboard, click on the top right corner where your initials are shown. 
 

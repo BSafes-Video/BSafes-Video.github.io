@@ -15,7 +15,7 @@ comments: false
 Welcome to the video tutorial series of BSafes. This video tutorial demonstrate you how to use BSafes Diary.
 
 <sup>Image by <a href="https://pixabay.com/users/stevepb-282134/">stevepb</a> from <a href="https://pixabay.com/photos/diary-journal-pen-notebook-january-614149/">Pixabay</a></sup>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/yr_mqNi5Q0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HsTp5NGHvh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 BSafes diary is a collection of pages that are ordered by date.
 

@@ -14,7 +14,7 @@ comments: false
 Welcome to the video tutorial series of BSafes. This is the first video of this series that will give you brief Introduction to BSafes.
 
 <sup>Image by <a href="https://pixabay.com/users/izoca-1502280/">izoca</a> from <a href="https://pixabay.com/images/id-980732/">Pixabay</a></sup>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/rqmyRBgHco0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nxiBXuK1aSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Let me ask you couple of questions.
 

@@ -14,7 +14,7 @@ Welcome to the video tutorial series of BSafes. This video tutorial will demonst
 
 <sup>Image by <a href="https://pixabay.com/users/pexels-2286921/">Pexels</a> from <a href="https://pixabay.com/photos/archive-boxes-documents-folders-1850170/">Pixabay</a></sup>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/8C8ihaBuh9o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/d4G2bnfY4VE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 BSafes box is different from folder because folder is a collection of pages but box can contain any type of item available in BSafes such as pages, notebooks, diaries, folders and even boxes. 
 

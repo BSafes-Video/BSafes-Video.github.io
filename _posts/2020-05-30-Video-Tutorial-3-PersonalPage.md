@@ -13,7 +13,7 @@ comments: false
 Welcome to the video tutorial series of BSafes. This video tutorial will demonstrate about how to create a personal page on BSafes. 
 
 <sup>Image by <a href="https://pixabay.com/users/StartupStockPhotos-690514/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=593333">StartupStockPhotos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=593333">Pixabay</a></sup>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/gLJBAuxJyKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HYShgwheWeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The beauty of BSafes is that it allows each member to has its own personal work space for adding or creating a number of things. These are visible to the specific individual and if working with teams then no one else in the team can view personal workspace of anyone else.
 
